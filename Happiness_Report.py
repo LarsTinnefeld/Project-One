@@ -1,2 +1,2 @@
-print('Hello World')
-print('Git Hub Greenhorns')
+PRINT ('Hello World') 
+PRINT ('Git Hub Greenhorns')
